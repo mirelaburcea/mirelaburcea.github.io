@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Alchimie Urban Spa and Hair Art"
+    url: /spa/
+           
+  - title: "Alchimie Cosmetics"
+    url: /cosmetics/
+
+  - title: "Renovations"
+    url: /renovations/    
+    
+  - title: "Student Kots"
+    url: /kots/
+    
+  - title: "Other"
+    url: /other/    
+
